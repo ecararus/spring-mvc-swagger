@@ -11,7 +11,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="https://github.com/ecararus/spring-mvc-swagger">Spring-mvc-swagger on git hub</a>
+		<a class="navbar-brand" href="http://ecararus.github.io/spring-mvc-swagger">Spring-mvc-swagger on git hub</a>
 	</div>
   </div>
 </nav>
