@@ -1,9 +1,9 @@
 # spring-mvc-swagger
 
 Intention:
-Write a simple Spring MVC application an add API documentation for REST API 
+Write a simple Spring MVC application and supply documentation for REST API 
 
-Prove that 
+Prove that Swagger can be integrated with SpringMVC when configuration is done via XML. 
 
 ## System requirements:
  - Java 8
