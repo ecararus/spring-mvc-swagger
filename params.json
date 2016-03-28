@@ -1,0 +1,6 @@
+{
+  "name": "Spring-mvc-swagger",
+  "tagline": "POC integration of spring mvc and swagger",
+  "body": "# spring-mvc-swagger\r\n\r\nIntention:\r\nWrite a simple Spring MVC application and supply documentation for REST API \r\n\r\nProve that Swagger can be integrated with SpringMVC when configuration is done via XML. \r\n\r\n## System requirements:\r\n - Java 8\r\n - Free port 8080\r\n\r\n## How to start and use\r\n```sh>\r\n\tmvn clean install jetty:run\r\n```\r\n - Open browser visit localhost:8080/\r\n\r\n## DISCLAIMER:\r\nPurpose of project is only educational.\r\nThis project should not be used for any commercial purpose.\r\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\r\nhttp://creativecommons.org/licenses/by-nc-sa/4.0/.\r\n\r\n## Author:\r\nEugeniu Cararus\r\ncararuseugeniu@gmail.com\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
